@@ -33,5 +33,3 @@ Now, I feel confident and ready to handle web testing challenges. This GitHub pr
 - Visual Validation
 - Debugging / Troubleshooting
 - Integrate with git
-- Cross platform
-
